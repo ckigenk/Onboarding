@@ -19,4 +19,4 @@ Focus on what is best for the community
 
 
 ## SLack channel
-Join our (Slack)[https://join.slack.com/t/moi-uni-bioinfo/shared_invite/zt-1ic9tul1h-xV_vu78odgGZEbhcV6Rtpg] channel
+Join our [Slack](https://join.slack.com/t/moi-uni-bioinfo/shared_invite/zt-1ic9tul1h-xV_vu78odgGZEbhcV6Rtpg) channel
